@@ -1,5 +1,5 @@
 const qBank = [{
-    "question": "Q01. ggggggggggggggggggggggg gggggggggggggggggggggggggggggg iiiiiiiiiiiiiiiiiiiiii",
+    "question": "Q01. ggggggggggggggggggggggg gggggggggggggggggggggggggggg iiiiiiiiiiiiiiiiiiiiii",
     "answer1": "hdddddddddddddddddddddddggggggggggggggggg ggggggggggggggggggggggggggggg gggggggggggggggggggggggggggggggggggggggggggddhhh",
     "answer2": "udddddddddddddddddddddddddhhh",
     "answer3": "rrrrdddddddddddddddddddddhhh",
