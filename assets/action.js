@@ -1,42 +1,83 @@
 const qBank = [{
-    "question": "Q01. ggggggggggggggggggggggg gggggggggggggggggggggggggggg iiiiiiiiiiiiiiiiiiiiii",
-    "answer1": "hdddddddddddddddddddddddggggggggggggggggg ggggggggggggggggggggggggggggg gggggggggggggggggggggggggggggggggggggggggggddhhh",
-    "answer2": "udddddddddddddddddddddddddhhh",
-    "answer3": "rrrrdddddddddddddddddddddhhh",
-    "answer4": "aafggddddddddddddddddddddddddhhh",
-    "ansKey": "ans2"
-},
-{
-    "question": "Q02. gggggggggggggggggggggggg ggggggggggggggggggggggggggggg",
-    "answer1": "hdddddddddddddddddddddddddhhh",
-    "answer2": "udddddddddddddddddddddddddhhh",
-    "answer3": "rrrrdddddddddddddddddddddhhh",
-    "answer4": "aafggddddddddddddddddddddddddhhh",
-    "ansKey": "ans1"
-},
-{
-    "question": "Q03. ggggggggggggggggggggggg gggggggggggggggggggggggggggggg",
-    "answer1": "hdddddddddddddddddddddddddhhh",
-    "answer2": "udddddddddddddddddddddddddhhh",
-    "answer3": "rrrrdddddddddddddddddddddhhh",
-    "answer4": "aafggddddddddddddddddddddddddhhh",
+    "question": "Q01. How many sizes of headers are available in HTML by default?",
+    "answer1": "5",
+    "answer2": "1",
+    "answer3": "3",
+    "answer4": "6",
     "ansKey": "ans4"
 },
 {
-    "question": "Q04. ggggggggggggggggggggggggg gggggggggggggggggggggggggggg",
-    "answer1": "hdddddddddddddddddddddddddhhh",
-    "answer2": "udddddddddddddddddddddddddhhh",
-    "answer3": "rrrrdddddddddddddddddddddhhh",
-    "answer4": "aafggddddddddddddddddddddddddhhh",
+    "question": "Q02. How to create an ordered list in HTML?",
+    "answer1": "<ul>",
+    "answer2": "<ol>",
+    "answer3": "<href>",
+    "answer4": "<b>",
+    "ansKey": "ans2"
+},
+{
+    "question": "Q03. What are the attributes used to change the size of an image?",
+    "answer1": "Width and height",
+    "answer2": "Big and small",
+    "answer3": "Top and bottom",
+    "answer4": "None of the above",
+    "ansKey": "ans1"
+},
+{
+    "question": "Q04. Which of the following is correct about HTML?",
+    "answer1": "HTML uses user defined tags",
+    "answer2": "HTML uses tags defind within the language",
+    "answer3": "Both A and B",
+    "answer4": "None of the above",
+    "ansKey": "ans2"
+},
+{
+    "question": "Q05. Which of the following is the correct syntax for reffering the external style sheet?",
+    "answer1": "<style src=example.css>",
+    "answer2": "<style src='exaple.css'>",
+    "answer3": "<stylesheetsheet>example.css</stylesheet>",
+    "answer4": "<link rel='stylesheet'  type='text / css'  href='example.css'>",
+    "ansKey": "ans4"
+}
+    ,
+{
+    "question": "Q06. The property in css used to change the background color of an element is?",
+    "answer1": "bgcolor",
+    "answer2": "color",
+    "answer3": "background-color",
+    "answer4": "All of the above",
     "ansKey": "ans3"
 },
 {
-    "question": "Q05. gggggggggggggggggggggg ggggggggggggggggggggggggggggggg",
-    "answer1": "hdddddddddddddddddddddddddhhh",
-    "answer2": "udddddddddddddddddddddddddhhh",
-    "answer3": "rrrrdddddddddddddddddddddhhh",
-    "answer4": "aafggddddddddddddddddddddddddhhh",
+    "question": "Q07. The css property used to control the elements font-size is?",
+    "answer1": "text-style",
+    "answer2": "text-size",
+    "answer3": "font-size",
+    "answer4": "None of the above",
+    "ansKey": "ans3"
+},
+{
+    "question": "Q08. Which type of javascript language is_____?",
+    "answer1": "Object-oriented",
+    "answer2": "Object-based",
+    "answer3": "Functional programming",
+    "answer4": "All of the above",
     "ansKey": "ans2"
+},
+{
+    "question": "Q09. Javascript code can be written in______?",
+    "answer1": "javaScript file(.js file)",
+    "answer2": "HTML document directly",
+    "answer3": "JavaScript file and in HTML document directly",
+    "answer4": "In style sheet(.css file)",
+    "ansKey": "ans3"
+},
+{
+    "question": "Q10. JavaScript ignores?",
+    "answer1": "newlines",
+    "answer2": "tabs",
+    "answer3": "spaces",
+    "answer4": "All of the above",
+    "ansKey": "ans4"
 }]
 
 const heading = document.getElementById("heading");
